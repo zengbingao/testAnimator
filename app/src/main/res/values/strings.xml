@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="yay_job_cklaimed">Yay,job claimed.</string>
+    <string name="job_details">Job details has been added to your booked jobs/calendar</string>
+    <string name="go_back">GO BACK TO OPEN JOBS</string>
+</resources>
